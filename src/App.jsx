@@ -4,6 +4,8 @@ import { clsx } from "clsx";
 import Title from "./components/Title.jsx";
 import Quiz from "./components/Quiz.jsx";
 import Confetti from "react-confetti";
+import char1 from "./images/1.png";
+import char2 from "./images/2.png";
 
 export default function App() {
   const { width, height } = useWindowSize();
@@ -29,12 +31,12 @@ export default function App() {
 
       <div className="quizzical-container">
         <img
-          src="../src/images/1.png"
+          src={char1}
           className="character character-left"
           alt="Left character"
         />
         <img
-          src="../src/images/2.png"
+          src={char2}
           className="character character-right"
           alt="Right character"
         />
