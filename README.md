@@ -1,5 +1,7 @@
 # Quizzical 🧠
 
+[![Demo](https://github.com/user-attachments/assets/4eb40332-cf54-4cd1-a55d-d654a7000012)](https://admirable-belekoy-1e17d6.netlify.app/)
+
 > Click the image to view the demo. The link will open in the current tab (press `Ctrl + Click` or `Cmd + Click` to open in a new tab).
 
 ## Description
